@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px){
+
+  .articulo_cont{
+    width: 40%;
+  }
+
+  nav li{
+    text-align: center;
+  }
+}
