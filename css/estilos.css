@@ -32,10 +32,11 @@ nav{
   justify-content: space-between;
   align-items: center;
   min-height: 60px;
+  max-height: 60px;
 }
 
 .img-nav{
-  width: 10vw;
+  width: 7vw;
   height: auto;
 }
 
