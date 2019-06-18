@@ -35,7 +35,8 @@ nav{
 }
 
 .img-nav{
-  margin-bottom: 2px
+  width: 10vw;
+  height: auto;
 }
 
 nav ul{
@@ -90,12 +91,6 @@ nav li a:hover{
 }
 
 .contenedor_qs{
-}
-
-.contenedor_qs_texto{
-  max-width: 800px;
-  margin: auto;
-  font-size: 14px;
 }
 
 /*==============footer================*/
