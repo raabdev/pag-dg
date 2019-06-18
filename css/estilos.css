@@ -70,7 +70,7 @@ nav li a:hover{
 .articulos{
   display: flex;
   flex-wrap: wrap;
-  padding: 20px;
+  padding-top: 20px;
   justify-content: space-around;
 }
 
