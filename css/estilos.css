@@ -91,7 +91,8 @@ nav li a:hover{
 
 }
 
-.contenedor_qs{
+.contenedor_qs p{
+width: 90%
 }
 
 /*==============footer================*/
