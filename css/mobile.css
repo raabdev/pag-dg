@@ -12,8 +12,9 @@
     width: 20vw;
   }
 }
+
 @media only screen and (max-width: 999px){
-  .contenedor_qs p{
-    width: 320px;
-  }
+  .container{
+    width: 99vw;
+  }  
 }
